@@ -47,7 +47,7 @@
 ## Podcast / Radio
 - [Radio Nova - La Dernière](https://podcasts.nova.fr/radio-nova-la-derniere) - Emission avec des invités
 - [Les pieds sur terre](https://www.radiofrance.fr/franceculture/podcasts/les-pieds-sur-terre) - Reportages sans commentaires
-- [Mon travail ma bataille](https://podcasts.apple.com/fr/podcast/mon-travail-ma-bataille/id1588908532)]
+- [Mon travail ma bataille](https://podcasts.apple.com/fr/podcast/mon-travail-ma-bataille/id1588908532)
 
 ## Films
 - [Désordres](https://www.senscritique.com/film/desordres/46655885)
